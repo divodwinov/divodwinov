@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 🔗 **My GitHub Profile:** [divodwinov](https://github.com/divodwinov)  
 
 # 💫 About Me:
-🧑‍🎓 I’m 4th Semester Student at University of Indonesia<br>🧑‍🎓’m 5th Semester Student at Asia e University<br>🌱 My daily use technologies are: Java, Golang, Ruby, Figma, Maze, Docker, Jenkins<br>☁️ I've keen interest in java. So, I'm learning JAVA more<br>🤾‍♂️ Love to write and trying to do better<br>
+🧑‍🎓 I’m 4th Semester Student at University of Indonesia<br>🧑‍🎓’m 5th Semester Student at Asia e University<br>☁️ I've keen interest in java. So, I'm learning JAVA more<br>🤾‍♂️ Love to write and trying to do better<br>
 
 
 ## 🌐 Socials:
